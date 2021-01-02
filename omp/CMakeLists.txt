@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5.0)
-project(ompeval_omp)
+project(ompeval)
 
 add_library(
     ${PROJECT_NAME} SHARED
