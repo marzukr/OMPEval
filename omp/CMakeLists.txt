@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.5.0)
-project(ompeval)
-
 add_library(
     ${PROJECT_NAME} SHARED
     CardRange.cpp
